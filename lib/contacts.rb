@@ -30,3 +30,4 @@ contacts = {
      }
    }
 end
+end
